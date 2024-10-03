@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'almon_almon1': Shirley Almon Generalized Polynomial Distributed Lag Model Use almon And almon1 With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f almon.ado
+f almon.dlg
+f almon.sthlp
+f almon1.ado
+f almon1.dlg
+f almon1.sthlp
