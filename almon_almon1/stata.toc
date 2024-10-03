@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p almon_almon1 Shirley Almon Generalized Polynomial Distributed Lag Model Use almon And almon1 With STATA 18
