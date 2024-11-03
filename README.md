@@ -1,6 +1,8 @@
 # almon_almon1
 Shirley Almon Generalized Polynomial Distributed Lag Model Use almon And almon1 With STATA 18
 
+https://www.youtube.com/watch?v=KE0G-Nk7QRs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
